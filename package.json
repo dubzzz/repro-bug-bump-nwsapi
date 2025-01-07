@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.2",
     "jsdom": "^22.1.0",
     "nwsapi": "2.2.16",
     "react": "^18.3.1",
