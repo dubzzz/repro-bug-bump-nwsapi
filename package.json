@@ -1,0 +1,21 @@
+{
+  "name": "repro-bug-bump-nwsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/react": "^16.1.0",
+    "jsdom": "^22.1.0",
+    "nwsapi": "2.2.16",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.1.13",
+    "vitest": "^2.1.8"
+  }
+}
